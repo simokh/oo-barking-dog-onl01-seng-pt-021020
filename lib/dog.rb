@@ -16,15 +16,3 @@ require 'pry'
       puts "woof!"
     end
   end
-
-
-
-
-
-
-
-
-
-
-
-# puts dog.name
